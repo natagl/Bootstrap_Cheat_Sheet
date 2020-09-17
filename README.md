@@ -1,4 +1,4 @@
-# Bootstrap_Cheat_Sheet
+### Bootstrap Cheat Sheet
 1.
 ![alt 1](https://github.com/natagl/Bootstrap_Cheat_Sheet/blob/master/img/1.jpg)
 2.
